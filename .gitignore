@@ -1,0 +1,10 @@
+*.pyc
+.env
+.vscode/
+app.json
+*.log
+*.ipynb
+*.dat
+*.pkl
+ipynb_checkpoints/
+output/
